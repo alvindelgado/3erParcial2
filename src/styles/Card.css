@@ -1,0 +1,14 @@
+.Card {
+    background: url(../assets/Fondo.svg);
+    width: 736px;
+    margin: 0 auto;
+    height: 825px;
+    align-items: flex-end;
+    display: grid;
+    grid-template-rows: 30% 70%;
+}
+
+.mostrar {
+    border: 10px solid white;
+    border-radius: 50%;
+}

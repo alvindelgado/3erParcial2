@@ -1,0 +1,17 @@
+.Cardsegui span {
+    font-family: 'PT Sans Caption';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.Cardsegui {
+    display: flex;
+    align-items: center;
+    padding-bottom: 10px;
+}
+
+.Cardsegui span:nth-child(2) {
+    margin-right: 50px;
+}
